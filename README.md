@@ -18,17 +18,6 @@ To run this project locally, follow these steps:
 
 Clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/your-username/pet-adoption.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd pet-adoption-
-Open the index.html file in your web browser.
-
-
 This project uses the Google Maps Embed API to display the Pet Adoption Center's location. To make it work, replace YOUR_API_KEY in the Google Maps URL with your actual Google Maps API key. If you don't have one, follow the instructions provided by the Google Maps Platform to obtain an API key.
 Contributing:
 
